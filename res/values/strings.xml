@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">棋牌专家</string>
+    <string name="service_name">棋牌专家</string>
+    <string name="accessibility_description">请启动棋牌专家服务！</string>
+</resources>

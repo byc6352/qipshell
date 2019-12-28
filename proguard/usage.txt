@@ -1,0 +1,15 @@
+com.byc.qip.BuildConfig
+com.byc.qip.R
+com.byc.qip.R$attr
+com.byc.qip.R$dimen
+com.byc.qip.R$drawable
+com.byc.qip.R$string
+com.byc.qip.R$style
+com.byc.qip.R$xml
+com.byc.reforcemy.ProxyApplication:
+    private static final java.lang.String appkey
+    327:354:protected void loadResources2(java.lang.String)
+com.byc.reforcemy.RefInvoke:
+    7:7:public RefInvoke()
+    125:145:public static java.lang.Object getStaticFieldOjbect(java.lang.String,java.lang.String)
+    188:208:public static void setStaticOjbect(java.lang.String,java.lang.String,java.lang.Object)

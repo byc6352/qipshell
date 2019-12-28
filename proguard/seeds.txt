@@ -1,0 +1,11 @@
+com.byc.qip.R$dimen: int activity_horizontal_margin
+com.byc.qip.R$drawable: int ic_launcher
+com.byc.qip.R$string: int accessibility_description
+com.byc.qip.R$string: int app_name
+com.byc.qip.R$string: int service_name
+com.byc.qip.R$style: int AppBaseTheme
+com.byc.qip.R$style: int AppTheme
+com.byc.qip.R$xml: int lock
+com.byc.qip.R$xml: int qianghongbao_service_config
+com.byc.reforcemy.ProxyApplication
+com.byc.reforcemy.ProxyApplication: ProxyApplication()
